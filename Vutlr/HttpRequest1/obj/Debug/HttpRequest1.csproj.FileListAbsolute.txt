@@ -1,0 +1,14 @@
+F:\Code\Project\Vutlr\HttpRequest1\bin\Debug\HttpRequest1.dll
+F:\Code\Project\Vutlr\HttpRequest1\bin\Debug\HttpRequest1.pdb
+F:\Code\Project\Vutlr\HttpRequest1\obj\Debug\HttpRequest1.dll
+F:\Code\Project\Vutlr\HttpRequest1\obj\Debug\HttpRequest1.pdb
+C:\Users\zhen\Desktop\github\Vutlr\Vutlr\HttpRequest1\bin\Debug\HttpRequest1.dll
+C:\Users\zhen\Desktop\github\Vutlr\Vutlr\HttpRequest1\bin\Debug\HttpRequest1.pdb
+C:\Users\zhen\Desktop\github\Vutlr\Vutlr\HttpRequest1\obj\Debug\HttpRequest1.csproj.CoreCompileInputs.cache
+C:\Users\zhen\Desktop\github\Vutlr\Vutlr\HttpRequest1\obj\Debug\HttpRequest1.dll
+C:\Users\zhen\Desktop\github\Vutlr\Vutlr\HttpRequest1\obj\Debug\HttpRequest1.pdb
+C:\Users\zhen\Desktop\github\Vutlr\1\Vutlr\HttpRequest1\bin\Debug\HttpRequest1.dll
+C:\Users\zhen\Desktop\github\Vutlr\1\Vutlr\HttpRequest1\bin\Debug\HttpRequest1.pdb
+C:\Users\zhen\Desktop\github\Vutlr\1\Vutlr\HttpRequest1\obj\Debug\HttpRequest1.csproj.CoreCompileInputs.cache
+C:\Users\zhen\Desktop\github\Vutlr\1\Vutlr\HttpRequest1\obj\Debug\HttpRequest1.dll
+C:\Users\zhen\Desktop\github\Vutlr\1\Vutlr\HttpRequest1\obj\Debug\HttpRequest1.pdb
